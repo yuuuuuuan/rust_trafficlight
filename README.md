@@ -97,4 +97,4 @@ Now is Red light,it will last 40 second.==>39
 Now is Red light,it will last 40 second.==>38
 
 ```
-![img](https://github.com/yuuuuuuan/rust_trafficlight/master/trafficlight.PNG)
+![img](https://github.com/yuuuuuuan/rust_trafficlight/blob/master/trafficlight.PNG)
